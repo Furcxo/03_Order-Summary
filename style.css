@@ -1,0 +1,80 @@
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f2f2f2;
+}
+main {
+  text-align: center;
+  border-radius: 20px;
+  width: 450px;
+  height: 697px;
+  background-color: #ffffff;
+}
+img {
+  width: 450px;
+  height: 220px;
+}
+#h1 {
+  color: #1f2e55;
+  text-align: center;
+  font-size: 28px;
+}
+#title h2 {
+  color: #717fa6;
+  font-size: 16px;
+  text-align: center;
+}
+#title {
+  width: 354px;
+  height: 78px;
+  align-items: center;
+}
+#Payment {
+  background-color: #766cf1;
+  width: 150px;
+  height: 20px;
+
+  text-align: center;
+}
+
+#cotne {
+  font-size: 15px;
+  color: #ffffff;
+  border-radius: 11px;
+  text-align: center;
+  margin: 20px;
+}
+#cancel {
+  font-size: 15px;
+  color: #1f2e55;
+}
+#goga {
+  font-size: 16px;
+  color: #1f2e55;
+}
+#guga {
+  color: #717fa6;
+  font-size: 16px;
+}
+#gaga {
+  color: #766cf1;
+  font-size: 14px;
+}
+#row {
+  background-color: #f7f9ff;
+  width: 354px;
+  height: 98px;
+  border-radius: 11px;
+}
+#adzin {
+  height: 18px;
+  width: 17.853548049926758px;
+  left: 15px;
+  top: 15px;
+  border-radius: 0px;
+}
