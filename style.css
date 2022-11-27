@@ -6,7 +6,10 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #f2f2f2;
+  background-color: #e0e8ff;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
 }
 main {
   text-align: center;
@@ -14,67 +17,93 @@ main {
   width: 450px;
   height: 697px;
   background-color: #ffffff;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 img {
   width: 450px;
   height: 220px;
+  margin-bottom: 30px;
+  border-radius: 20px 20px 0px 0px;
 }
 #h1 {
   color: #1f2e55;
   text-align: center;
   font-size: 28px;
+  font-family: "outfit", sans-serif;
 }
 #title h2 {
   color: #717fa6;
   font-size: 16px;
   text-align: center;
+  font-family: "outfit", sans-serif;
 }
+
 #title {
   width: 354px;
   height: 78px;
-  align-items: center;
+  text-align: center;
+  padding-left: 60px;
+  margin-top: 30px;
 }
 #Payment {
   background-color: #766cf1;
-  width: 150px;
-  height: 20px;
-
-  text-align: center;
+  width: 354px;
+  height: 50px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #cotne {
   font-size: 15px;
   color: #ffffff;
-  border-radius: 11px;
+  border-radius: 15px;
   text-align: center;
   margin: 20px;
+  font-family: "outfit", sans-serif;
+  padding-top: 15px;
 }
 #cancel {
   font-size: 15px;
   color: #1f2e55;
+  font-family: "outfit", sans-serif;
+  margin-top: 30px;
 }
 #goga {
   font-size: 16px;
   color: #1f2e55;
+  font-family: "outfit", sans-serif;
 }
 #guga {
   color: #717fa6;
   font-size: 16px;
+  font-family: "outfit", sans-serif;
 }
 #gaga {
   color: #766cf1;
   font-size: 14px;
+  font-family: "outfit", sans-serif;
 }
 #row {
   background-color: #f7f9ff;
   width: 354px;
   height: 98px;
   border-radius: 11px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 #adzin {
-  height: 18px;
-  width: 17.853548049926758px;
-  left: 15px;
-  top: 15px;
+  height: 48px;
+  width: 48px;
+
   border-radius: 0px;
+}
+#gigi {
+  display: flex;
+  flex-direction: column;
 }
