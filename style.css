@@ -47,12 +47,13 @@ img {
   margin-top: 30px;
 }
 #Payment {
-  background-color: #766cf1;
+  background-color: #382ae1;
   width: 354px;
   height: 50px;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 11px;
 }
 
 #cotne {
@@ -66,19 +67,24 @@ img {
 }
 #cancel {
   font-size: 15px;
-  color: #1f2e55;
+  color: #717fa6;
   font-family: "outfit", sans-serif;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 #goga {
   font-size: 16px;
   color: #1f2e55;
   font-family: "outfit", sans-serif;
+  margin-right: 120px;
+  margin-top: 90px;
 }
 #guga {
   color: #717fa6;
   font-size: 16px;
   font-family: "outfit", sans-serif;
+  margin-right: 120px;
+  margin-bottom: 90px;
 }
 #gaga {
   color: #766cf1;
@@ -100,10 +106,11 @@ img {
 #adzin {
   height: 48px;
   width: 48px;
-
+  margin-top: 25px;
   border-radius: 0px;
 }
 #gigi {
   display: flex;
   flex-direction: column;
+  column-gap: center;
 }
