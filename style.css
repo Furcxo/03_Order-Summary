@@ -112,5 +112,12 @@ img {
 #gigi {
   display: flex;
   flex-direction: column;
-  column-gap: center;
+  align-items: center;
+
+  justify-content: center;
+}
+#ashmalaxa {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
 }
